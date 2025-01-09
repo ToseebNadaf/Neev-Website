@@ -7,7 +7,7 @@
   <p align="center">
    A cutting-edge platform to simplify healthcare, connect providers, and empower patient care.
     <br />
-    <a href="[neev-website-snowy.vercel.app](https://neev1.vercel.app/)">Visit Website</a>
+    <a href="https://neev1.vercel.app/">Visit Website</a>
   </p>
 </div>
 
