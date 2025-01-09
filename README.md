@@ -18,7 +18,7 @@
    git clone https://github.com/ToseebNadaf/Neev-Website.git
 2. **Change the directory** using below command:
    ```bash
-   cd assesment
+   cd Neev-Website
 3. **Install Dependencies**:
    ```bash
    npm install
